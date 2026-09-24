@@ -1,0 +1,14 @@
+.venv/
+wheels/
+__pycache__/
+*.pyc
+data/
+outputs/
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.npy
+kaggle.json
+.env
+.ipynb_checkpoints/
